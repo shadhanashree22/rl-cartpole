@@ -113,6 +113,7 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 ```
 
 ## OUTPUT
+<img width="1750" height="559" alt="image" src="https://github.com/user-attachments/assets/3f1ffa99-ede2-4b07-8faa-0dc9158607b2" />
 
 
 ## RESULT
