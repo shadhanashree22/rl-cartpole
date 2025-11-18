@@ -115,8 +115,6 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 ## OUTPUT
 
 
-
-
 ## RESULT
 
 The Monte Carlo Control algorithm was successfully implemented for the Cart Pole environment.
